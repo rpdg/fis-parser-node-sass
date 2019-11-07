@@ -11,13 +11,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:fex-team/fis-parser-node-sass.git",
-    "web": "https://github.com/fex-team/fis-parser-node-sass.git"
+    "url": "git@github.com:rpdg/fis-parser-node-sass.git",
+    "web": "https://github.com/rpdg/fis-parser-node-sass.git"
   },
   "engines": {
     "node": ">=0.8.0"
   },
   "scripts": {
+    "node-sass": "4.12.0"
   },
   "dependencies": {
     
