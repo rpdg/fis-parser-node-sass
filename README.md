@@ -6,7 +6,7 @@ fis-parser-node-sass
 全局安装
 
 ```bash
-npm install fis-parser-node-sass -g
+npm i -g git+ssh://git@github.com/rpdg/fis-parser-node-sass
 ```
 
 ## FIS2
